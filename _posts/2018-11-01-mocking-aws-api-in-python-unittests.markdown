@@ -5,6 +5,9 @@ date:   2018-11-01 12:32:13 +0100
 author: Dan Wilson
 ---
 
+**Caveat**:<br />
+This method requires Boto3 to be setup and working before you can mock `_make_api_call`
+
 Since starting working at co-op, everything we do is on AWS. If we need file storage, it’s going to be an S3 bucket. You need a queue, SQS. We also use TDD and run tests on every save and you don’t want [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) trying to touch a file to S3 every time you save.
 
 Enter [`unittest.mock`](https://docs.python.org/3/library/unittest.mock.html)
