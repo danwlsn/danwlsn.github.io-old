@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "2018 review"
+date:   2018-12-31 06:53:13 +0100
+author: Dan Wilson
+---
+2018 was a bit of a world wind for me (probably just as much as it was for you). After leaving for the other side of the world in June 2016, 2018 was my first year back in “the real world”. The least I can say is I was not prepared.
+
+It took a lot longer than I thought to get back on my feet and settle in. But never the less, some really awesome things happened this year, so lets look over:
+
+## Highlights
+Let’s start with my top three things that happened this year (in no particular order:
+
+### Software engineer at Co-op
+I got a great job this year. I started working for Co-op in August on the Guardian project in Funeral care. After leaving the frontend world when I left the country and focusing on Django since then, getting this job when I got back was a huge success and massive achievement in my eyes.
+
+### Sardina
+Laura and I took a trip to Sardinia at the end of summer. We rented an AirBnB and a car and drove from beach to restaurant, back to the beach then home everyday for a week. It was my first time back in clear sea after living in it round Asia. It restored the travel itch back in me and I can’t wait to get back round Europe next year.
+
+### Christmas
+I know it’s just been but I loved Christmas this year. After missing one Christmas, and then not having enough time or money the next, I went big this Christmas. And I know it’s just a day, but I had such a blast this year round.
+
+------
+
+Now we’ve got the big bits out of the way, I’m going to look at two things I think are interesting:
+1. Things I said I would do (and if I did them or not)
+2. Things that “just happened”
+
+## Things I said I would do
+The title pretty much explains this. My friends will tell you I’m bad for starting conversation with “Do you know what I’m going to do?” and then following up with some outlandish statement, only to instantly backtrack and end somewhere in the realm of feasible. But here are some of those things:
+
+### 1. Build a work shop
+And I did it. Sort of. I built a work bench in my cellar, then borrowed and bought some tools. So far I’ve made two things (one being the bench) but I’m still learning.
+
+### 2. Plan a trip to Iceland
+I did not do it. Maybe 2019?
+
+### 3. Start making a Sunday roast
+I did this. I’d never made a roast dinner before and never really had the opportunity to. So I offered it to my house mates who all jumped at the chance to have a free Sunday roast made for them, no questions asked. It won’t be a weekly thing, but I’d like to make more. Maybe once a month.
+
+### 4. Run a half marathon
+I haven’t done this **yet**. It’s planned in for July, but my foot is sore at the moment and I’m not running much. Stay tuned on this one.
+
+------
+
+## Things that happened
+This is a bitter stranger. This is things that “just happened”. Nothing here was planned, at least not by me.
+
+### 1. HALA got a lot of good test data
+The project them I’m working on with some friends got some really good test data. It validates our claim which means we can continue down the path we’re on. Nothing more to say on this, but I’m super excited!
+
+### 2. I moved into a house share
+I moved in with my girlfriend, Laura, and our two other best friends (who are also a couple) Ethan and Mel. *Caveat*: We did plan on doing this, but it’s initial inception was through a conversation about how expensive it is in Manchester. Then one of us said “Hey, why don’t we all just move to Chorlton?”.
+
+### 3. Laura and I talked about buying a house
+Emphasis on the “talked”. I’ve never really wanted to buy a house. I’ve always seen it as a big magnet that holds you back to the country. And when timescales break 10 years my brain can’t cope. But since living in a (rented) house for some time now, I quite like the idea of having my own home or at least a space you can *make* (not call) your own.
+
+## Taking forward
+### 1. HALA
+Lots of work to be done on this project. Towards the end of 2018 I got really bogged down in this. But we have some more clarity now.
+
+
+### 2. Running
+I’ve always wanted to be a runner but I was never very good at long distance. However, I’ve found that I can run a 10k quiet well. I’ve also missed running since injuring my foot.
+
+
+### 3. Travel
+Traveling for over a year has made me a little bitter about taking a week off to visit somewhere. But I’ve had a couple of really good holidays this year, and would like to do a lot more in 2018. Aiming for 4 holidays next year.
+
+
+### 4. Meditation
+I was very ignorant about meditation until I heard this quote. I’m going to have to paraphrase and I don’t know where I heard it either.
+
+> A: I’ve always struggled with mediation. I always find my mind wandering off
+> B: Well, did you come back to your breathe?
+> A: Yeah, but after a bit I would just wander off again.
+> B: The important thing is you came back.
+
+The idea that’s it not about sitting their in perfect calm and stillness. It’s about coming back. But this practice is important *everywhere*. Say you start a diet, and one day you slip up. How many times has that one slip up cost you the whole operation? And what would happen if you slipped up, then came back to the diet?
+
+2019 for me is going to be about the long game.
